@@ -33,3 +33,16 @@ ___
 Dataset was collected from a reputable music database, covering a broad period of time to provide a comprehensive look at music trends.
 
 ### Usage Instructions
+___
+- Data analysis can be performed on any preferred Database Management System. However, the queries in this project was written in PostgreSQL. Take note of syntax.
+- Download dataset from this project repository into local machine. 
+- On windows machine, enter ``` Windows + E ``` and paste the file path ```C:/ProgramData/MySQL/MySQL Server 8.0/Uploads``` on the file address to go into 'Uploads' folder.
+- While in the 'Uploads' folder, create a folder named 'input_files' and copy the downloaded dataset files into this folder 
+> [!CAUTION]
+> You must perform the Steps above before running the SQL script.
+- Open the "songs_data_analysis_queries.sql" file on your Database Management System and run the script. This should automatically create and import the dataset into a database and table.
+> [!WARNING]
+> Run each block of code individually for better experience.
+
+### Data Cleaning and Preprocessing
+___
