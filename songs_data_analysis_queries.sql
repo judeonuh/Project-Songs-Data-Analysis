@@ -161,13 +161,13 @@ ORDER BY year_released;
 
 
 
--- 5. Top 20 artists with the most number of albums released
+-- 5. Top 20 artists with the most number of songs released
 SELECT 
 	distinct artist,
-	COUNT(*) AS albums_released
+	COUNT(*) AS songs_released
 FROM songs_tb
 GROUP BY artist
-ORDER BY albums_released DESC
+ORDER BY songs_released DESC
 LIMIT 20;
 
 
