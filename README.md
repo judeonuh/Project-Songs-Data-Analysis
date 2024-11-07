@@ -58,6 +58,7 @@ ___
 
 ![annual song release](year_released_graph2.png)  
 
+### **Discussion**
 There was a gradual rise in the number of songs released annually.
 These numbers began to increase greatly from 1987 and hit a peak in 2006
 with 320 songs released in that year. This growth may be attributed
@@ -81,6 +82,8 @@ ___
 
 ![song tempo change](songs_ave_tempo.png)  
 
+### **Discussion**
+
 * The period between 1920 - 1955 saw a staggering drop in the tempo of songs released.
 * A shift from Jazz and Swing to Crooners and Ballads could be responsible for this phenomenon.
 Early jazz and swing music (1920s-1930s) was generally faster-paced, with upbeat tempos meant for dancing.  
@@ -95,6 +98,8 @@ ___
 
 ![](songs_loudness.png)  
 
+### **Discussion**
+
 * Between 1920 and 1934, the loudness of songs released experienced a staggering increase, reaching a peak in 1934.
 The introduction of new technologies such as electric microphones and amplifiers in the late 1920s, 
 allowed for more dynamic sound capture and manipulation, possibly explaining why songs were louder 
@@ -106,6 +111,8 @@ ___
 ### **4. Top 7 Artists based on number of songs released**
 
 ![top artists](top_artists.png)  
+
+### **Discussion**
 
 * Phil Collins, Aerosmith, and Snow Patrol each released the highest number of albums (11 albums),
 suggesting a high demand for their genre/style of music at the time - Rock (especially pop rock)
